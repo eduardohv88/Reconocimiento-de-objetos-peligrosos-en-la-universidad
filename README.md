@@ -36,4 +36,5 @@ Para el entrenamiento del modelo se establecieron los siguientes parámetros por
 ![image](https://github.com/eduardohv88/Reconocimiento-de-objetos-peligrosos-en-la-universidad/assets/158246986/a192609b-92c3-4bdc-89e4-b7ac5bead0ff)
 
 ## Graficas obtenidas
+
 ![descarga](https://github.com/eduardohv88/Reconocimiento-de-objetos-peligrosos-en-la-universidad/assets/158246986/7c09c8c6-37ad-46a9-837a-b2609beac5f9)
